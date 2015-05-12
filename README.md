@@ -1,4 +1,9 @@
 # blink
+[![Travis](https://img.shields.io/travis/aurbano/blink.svg?style=flat-square)](https://travis-ci.org/aurbano/blink)
+[![npm](https://img.shields.io/npm/v/blinkjs.svg?style=flat-square)](https://www.npmjs.com/package/blinkjs)
+[![David](https://img.shields.io/david/aurbano/blink.svg?style=flat-square)](https://david-dm.org/aurbano/blink)
+[![GitHub license](https://img.shields.io/github/license/aurbano/blink.svg?style=flat-square)](https://github.com/aurbano/blink/blob/master/LICENSE)
+
 Real-time, unopinionated, modern web framework for node
 
 ```js
