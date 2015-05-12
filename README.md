@@ -4,7 +4,7 @@
 [![David](https://img.shields.io/david/aurbano/blink.svg?style=flat-square)](https://david-dm.org/aurbano/blink)
 [![GitHub license](https://img.shields.io/github/license/aurbano/blink.svg?style=flat-square)](https://github.com/aurbano/blink/blob/master/LICENSE)
 
-Real-time, unopinionated, modern web framework for node
+>Real-time, unopinionated, modern web framework for node
 
 ```js
 var blink = require('blinkjs')
