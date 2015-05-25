@@ -4,7 +4,7 @@
   "description": "Real-time, unopinionated, modern web framework for node",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test --recursive"
   },
   "repository": {
     "type": "git",
@@ -29,8 +29,11 @@
   },
   "homepage": "https://github.com/aurbano/blink",
   "dependencies": {
-    "events": "^1.0.2",
-    "express": "^4.12.3",
-    "merge-descriptors": "^1.0.0"
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3",
+    "supertest": "^1.0.1"
   }
 }
