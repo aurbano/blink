@@ -28,3 +28,5 @@ $ npm install blinkjs
   * Robust routing
   * Focus on high performance
   * Real-time support
+
+[![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/blink/readme)](https://github.com/aurbano)
